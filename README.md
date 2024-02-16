@@ -1,2 +1,1 @@
-# git-test
-Getting to know git
+# cnectus development branch
